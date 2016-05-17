@@ -1,0 +1,53 @@
+* {
+  font-family: gotham narrow, sans-serif;
+  background-color: white;
+}
+
+ul {
+  display: inline-block;
+  color: #0039AC;
+  font-family: gotham narrow, sans-serif;
+  text-decoration: none;
+  margin-bottom: 30px;
+
+}
+
+h1 {
+
+}
+
+div.header {
+  background-color: white;
+  padding: 20px 0 20px 0px;
+  color: #0091AC;
+  display: block;
+  font-weight: normal;
+  font-size: 16px;
+  padding-left: 50px;
+  width: 100%;
+}
+
+div.header img {
+  display: inline-block;
+  height: 90px;
+  width: 90px;
+  margin-top: 10px;
+  padding-right: 50px;
+}
+
+.header h1 {
+  display: inline-block;
+}
+
+.header ul {
+  display: inline-block;
+}
+
+.header li {
+  display: inline-block;
+}
+
+img {
+width: 49%;
+height: 500px;
+}
